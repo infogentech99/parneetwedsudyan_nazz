@@ -50,26 +50,26 @@ export default function Home() {
     //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
     // },
 
-    // {
-    //   title_ceremony: "Nazz-e-kashmir",
-    //   image: "/assets/nazz.webp",
-    //   venue_address: <>Thursday, November 19th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 8:00 pm Onwards</>,
-    //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
-    // },
-
-    // {
-    //   title_ceremony: "Jaago Night",
-    //   image: "/assets/jago_amul.png",
-    //   venue_address: <>Friday, November 20th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 5:30 pm Onwards</>,
-    //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
-    // },
-
     {
-      title_ceremony: "Wedding",
-      image: "/assets/anand_amul.png",
-      venue_address: <>Saturday, November 21st 2026 <br /> Aarzoo Resorts Ramgarh road Derabassi<br /> 11:00 am Onwards</>,
-      link: "https://maps.app.goo.gl/C7JvyjCu1MMaYv3r5",
+      title_ceremony: "Nazz-e-kashmir",
+      image: "/assets/nazz.webp",
+      venue_address: <>Thursday, November 19th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 8:00 pm Onwards</>,
+      link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
     },
+
+    // // {
+    // //   title_ceremony: "Jaago Night",
+    // //   image: "/assets/jago_amul.png",
+    // //   venue_address: <>Friday, November 20th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 5:30 pm Onwards</>,
+    // //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
+    // // },
+
+    // {
+    //   title_ceremony: "Wedding",
+    //   image: "/assets/anand_amul.png",
+    //   venue_address: <>Saturday, November 21st 2026 <br /> Aarzoo Resorts Ramgarh road Derabassi<br /> 11:00 am Onwards</>,
+    //   link: "https://maps.app.goo.gl/C7JvyjCu1MMaYv3r5",
+    // },
 
 
   ];
